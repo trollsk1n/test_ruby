@@ -10,7 +10,13 @@ def sound_horn
   puts 'Beep beep!'
 end
 
-def use_headlights(brightness)
+def use_headlights(brightness = 'low brightness')
   puts "Turning on #{brightness} headlights"
   puts 'Watch out for deer!'
+end
+
+def mileage(miles_driven, gas_used)
+  return 0.0 if gas_used.zero?
+
+  miles_driven / gas_used
 end
