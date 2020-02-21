@@ -1,2 +1,2 @@
-# Learn ruby programming language
+# Learn *RUBY* programming language
 By book "HeadFirst"
