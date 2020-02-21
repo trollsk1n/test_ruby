@@ -1,2 +1,2 @@
-# test_ruby
-custom ruby testing
+# Learn ruby programming language
+By book "HeadFirst"
