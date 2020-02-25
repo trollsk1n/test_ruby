@@ -2,7 +2,6 @@
 
 # Mage class
 class Mage
-
   attr_accessor :name, :spell
 
   def enchant(target)
