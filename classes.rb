@@ -47,7 +47,7 @@ bird = Bird.new
 dog = Dog.new
 cat = Cat.new
 
-# bird.move('tree')
+bird.move('tree')
 dog.age = 5
 dog.name = 'Bary'
 dog.report_age
