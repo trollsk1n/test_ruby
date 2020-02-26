@@ -33,6 +33,10 @@ end
 
 # Dog class extends Animal
 class Dog < Animal
+  # to_s for write object as string
+  def to_s
+    puts "#{@name} the dog, age #{@age}"
+  end
 end
 
 # Cat class extends Animal
